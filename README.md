@@ -1,1 +1,1 @@
-First zero day readme, excited to be here
+First zero day readme
